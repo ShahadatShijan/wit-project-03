@@ -139,3 +139,35 @@ header{
 }
 
 /* about section ends*/
+
+/* food menu section start*/
+.card{
+    transition: 0.4s;
+}
+.card-img img{
+    max-width: 100%; 
+    height: auto;
+    display: block;
+}
+
+.card-des{
+    text-align: center;
+}
+
+.card-des h4{
+    background-color:  rgb(0,128,0);
+    padding: 10px;
+    font-size: 1.2rem;
+}
+
+.card-des > p{
+    background-color: rgb(165,164,164);
+    padding: 10px;
+    font-weight: bold;
+    font-size: .8rem;
+}
+
+.card:hover{
+    transform: scale(1.1);
+}
+/* food menu section ends*/
