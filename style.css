@@ -70,3 +70,56 @@ header{
     background-color: turquoise;
 }
 /* header ends */
+
+/* banner section */
+#banner-section{
+    background-image: url(imeges/banner.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+   
+}
+
+.banner-content{
+    text-align: center;
+    padding: 50px 10px;
+}
+
+.banner-content h1{
+    background-color: rgba(255,255,0,0.884);
+    width: 100%;
+    margin: 15px auto;
+    font-size: 3rem;
+    padding: 10px;
+    border-radius: 5px;
+    font-family: 'Handlee', cursive;
+}
+
+.banner-content p{
+    background-color: rgb(0,128,0);
+    font-size: 1.5rem;
+    color: white;
+    padding: 10px;
+    width: 300px;
+    margin: 15px auto;
+    border: none;
+    border-radius: 5px;
+}
+
+.btn{
+    width: 160px;
+    background-color: rgb(0,128,0);
+    padding: 10px;
+    color: white;
+    border: none;
+    font-size: 1.3rem;
+    border-radius: 5px;
+    text-transform: uppercase;
+    transition: .4s;
+}
+
+.btn:hover{
+    transform: scale(1.2);
+}
+/* banner section  ends*/
