@@ -123,3 +123,19 @@ header{
     transform: scale(1.2);
 }
 /* banner section  ends*/
+
+/* about section start*/
+#about-section{
+    padding: 15px 0;
+    margin: 10px auto;
+}
+#about-section h1{
+    text-align: center;
+    font-size: 2rem;
+}
+
+#about-section p{
+    text-align: center;
+}
+
+/* about section ends*/
