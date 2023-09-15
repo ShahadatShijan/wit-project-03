@@ -194,3 +194,21 @@ header{
 }
 
 /* contact section ends */
+
+
+/* footer section */
+
+footer{
+    background-color: #060930;
+    color: white;
+    padding: 10px;
+    text-align: center;
+    font-size: 1rem;
+}
+.social-menus{
+    font-size: 1.5rem;
+}
+
+.social-menus a{
+    color: #fff;
+}
