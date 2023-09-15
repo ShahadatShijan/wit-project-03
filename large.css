@@ -1,0 +1,66 @@
+.nav-logo{
+    text-align: left;
+
+}
+
+.nav-menu{
+    text-align: right;
+    
+}
+
+.nav-menu ul li{
+    background-color: transparent;
+    transition: .4s;
+}
+
+.nav-menu ul li:hover{
+    background-color: transparent;
+    text-decoration: underline;
+    transform: scale(1.1);
+}
+
+.nav-menu ul li {
+    display: inline-block;
+}
+
+/* header ends */
+
+/* banner section */
+
+#banner-section{
+    position: relative;
+    height: 100vh;
+}
+
+.banner-content{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.banner-content h1{
+    width: 700px;
+    margin: 15px auto;
+    font-size: 3.5rem;
+}
+
+.banner-content p{
+    font-size: 2rem;
+    width: 500px;
+}
+
+/* banner section  ends*/
+
+
+/* banner ends */
+
+/* footer start */
+footer p{
+    text-align: left;
+}
+
+.social-menus{
+    text-align: right;
+}
+/* footer ends */
