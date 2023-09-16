@@ -5,7 +5,7 @@
 }
 
 .container{
-    max-width: 1000px;
+    max-width: 1500px;
     margin: 0 auto;
 }
 .row{
@@ -211,6 +211,7 @@ footer{
 
 .social-menus a{
     color: #fff;
+    margin-right: 1.5rem;
 }
 
  /* large device (portrait tablets and large phones, 992px and up) */
